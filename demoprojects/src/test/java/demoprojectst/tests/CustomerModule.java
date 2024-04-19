@@ -6,5 +6,6 @@ public class CustomerModule {
 @Test
 	public void createCustomer() {
 	System.out.println("creating customer");
+	//completed
 }
 }
